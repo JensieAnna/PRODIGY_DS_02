@@ -1,1 +1,2 @@
 # PRODIGY_DS_02
+The aim of this project is to perform data cleaning and exploratory data analysis (EDA) on a dataset, utilizing techniques to understand the underlying structure of the data and uncover insights. The dataset chosen for this project is the Titanic dataset, obtained from Kaggle, which contains information about passengers aboard the Titanic, including demographics, ticket information, and survival status.
